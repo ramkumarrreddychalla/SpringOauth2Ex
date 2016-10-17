@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-oath2-sample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Praveenkumar
+Implementation-Vendor-Id: com.hascode.tutorial
+Build-Jdk: 1.8.0_73
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
